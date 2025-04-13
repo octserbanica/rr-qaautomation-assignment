@@ -1,0 +1,115 @@
+INFO     seleniumwire.storage:storage.py:38 Using default request storage
+INFO     seleniumwire.backend:backend.py:31 Created proxy listening on 127.0.0.1:59397
+INFO     seleniumwire.handler:handler.py:65 Capturing request: http://clients2.google.com/time/1/current?cup2key=8:1XRs_A3Axg6RelN9c9awPI34rrc_HDm8VNcIBBRH0_k&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+INFO     seleniumwire.handler:handler.py:128 Capturing response: http://clients2.google.com/time/1/current?cup2key=8:1XRs_A3Axg6RelN9c9awPI34rrc_HDm8VNcIBBRH0_k&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard 200 
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/register.htm
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/register.htm 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/template.css;jsessionid=FEC62D9570F2261DB4C00A87A783702D
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/style.css;jsessionid=FEC62D9570F2261DB4C00A87A783702D
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/webjars/jquery/3.7.1/jquery.min.js;jsessionid=FEC62D9570F2261DB4C00A87A783702D
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/template.css;jsessionid=FEC62D9570F2261DB4C00A87A783702D 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/style.css;jsessionid=FEC62D9570F2261DB4C00A87A783702D 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/images/clear.gif;jsessionid=FEC62D9570F2261DB4C00A87A783702D
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/images/clear.gif;jsessionid=FEC62D9570F2261DB4C00A87A783702D 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/images/logo.gif;jsessionid=FEC62D9570F2261DB4C00A87A783702D
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/images/logo.gif;jsessionid=FEC62D9570F2261DB4C00A87A783702D 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/webjars/jquery/3.7.1/jquery.min.js;jsessionid=FEC62D9570F2261DB4C00A87A783702D 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/images/main-bg.gif
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/images/topbg.gif
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/images/header-main.jpg;jsessionid=FEC62D9570F2261DB4C00A87A783702D
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/images/main-bg.gif 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/images/topbg.gif 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/images/sky-color-bg.gif
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/images/footerbg.gif
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/images/aboutus-normal.gif
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/images/contact-normal.gif
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/images/footerbg.gif 200 
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/images/sky-color-bg.gif 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/images/button-bgr.png
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/images/bodybg.gif
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/images/bullet-hover.gif
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/images/bullet-hover.gif 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/images/bodybg.gif 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/images/bullet-normal.gif
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/images/home-normal.gif
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/images/contact-normal.gif 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/images/aboutus-normal.gif 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/images/button-bgr.png 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/images/bullet-normal.gif 200 
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/images/home-normal.gif 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM1LjAuNzA0OS44NRJfCWtgx4Pu_MHHEgUNCfPohhIFDYlwEr8SBQ3ropIWEgUNrgXjKxIFDQphuuUSBQ1gf3GnEgUNzcrrKBIFDXKQOWgSBQ1w16McEgUN8EARXBIFDU1RgpUhciTt88gye2QSIAly2jGN-_c-0BIFDeeNQA4SBQ3OQUx6Idp7IwgA8U88?alt=proto
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM1LjAuNzA0OS44NRJfCWtgx4Pu_MHHEgUNCfPohhIFDYlwEr8SBQ3ropIWEgUNrgXjKxIFDQphuuUSBQ1gf3GnEgUNzcrrKBIFDXKQOWgSBQ1w16McEgUN8EARXBIFDU1RgpUhciTt88gye2QSIAly2jGN-_c-0BIFDeeNQA4SBQ3OQUx6Idp7IwgA8U88?alt=proto 200 
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/images/header-main.jpg;jsessionid=FEC62D9570F2261DB4C00A87A783702D 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/favicon.ico
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/favicon.ico 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/register.htm
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/register.htm 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/template.css
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/webjars/jquery/3.7.1/jquery.min.js
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/style.css
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/template.css 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/style.css 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/webjars/jquery/3.7.1/jquery.min.js 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/images/clear.gif
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/images/logo.gif
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/images/header-customer.jpg
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/images/bullet2-normal.gif
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/images/clear.gif 200 
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/images/logo.gif 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/images/header-customer.jpg 200 
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/images/bullet2-normal.gif 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://passwordsleakcheck-pa.googleapis.com/v1/leaks:lookupSingle
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://passwordsleakcheck-pa.googleapis.com/v1/leaks:lookupSingle 200 
+INFO     root:test_ui_parabank.py:36 Registration is valid
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/images/bullet2-hover.gif
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/overview.htm
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/images/bullet2-hover.gif 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/overview.htm 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/images/gradhead.png
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/services_proxy/bank/customers/12989/accounts
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/images/gradhead.png 200 OK
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/services_proxy/bank/customers/12989/accounts 200 OK
+INFO     seleniumwire.handler:handler.py:65 Capturing request: https://parabank.parasoft.com/parabank/images/gradback.png
+INFO     seleniumwire.handler:handler.py:128 Capturing response: https://parabank.parasoft.com/parabank/images/gradback.png 200 OK
+INFO     root:test_ui_parabank.py:60 The user 'octavian_ui_3577' was registered and saved in user_data.json!
+INFO     root:helper.py:14 Login request sent for user: octavian_ui_3577
+INFO     root:helper.py:17 Login response status code is 200
+INFO     root:helper.py:20 Login response content is valid
+INFO     root:test_api_parabank.py:14 Login request sent successfully
+INFO     root:test_api_parabank.py:28 Successfully fetched accounts for savings creation
+INFO     root:test_api_parabank.py:36 Savings account created successfully
+INFO     root:helper.py:33 Fetched account list successfully
+INFO     root:helper.py:36 Total balance is: 515.50
+INFO     root:helper.py:39 Total balance is positive
+INFO     root:test_api_parabank.py:43 Total amount is more than 0
+INFO     root:helper.py:45 Services page fetched successfully
+INFO     root:helper.py:49 Available services: {'LoanProcessorService', 'ParaBankService', 'Bookstore'}
+INFO     root:test_api_parabank.py:57 The website provides the Bookstore service
+INFO     root:test_api_parabank.py:71 Fetched accounts before loan request
+INFO     root:test_api_parabank.py:84 Loan created successfully
+INFO     root:test_api_parabank.py:90 Fetched accounts after loan request
+INFO     root:test_api_parabank.py:94 New account was successfully created
+INFO     root:test_api_parabank.py:98 Loan account verified in new accounts
+INFO     root:test_api_parabank.py:71 Fetched accounts before loan request
+INFO     root:test_api_parabank.py:84 Loan created successfully
+INFO     root:test_api_parabank.py:90 Fetched accounts after loan request
+INFO     root:test_api_parabank.py:71 Fetched accounts before loan request
+INFO     root:test_api_parabank.py:84 Loan created successfully
+INFO     root:test_api_parabank.py:90 Fetched accounts after loan request
+INFO     root:test_api_parabank.py:71 Fetched accounts before loan request
+INFO     root:test_api_parabank.py:84 Loan created successfully
+INFO     root:test_api_parabank.py:90 Fetched accounts after loan request
+INFO     root:test_api_parabank.py:94 New account was successfully created
+INFO     root:test_api_parabank.py:98 Loan account verified in new accounts
+INFO     root:test_api_parabank.py:71 Fetched accounts before loan request
+INFO     root:test_api_parabank.py:84 Loan created successfully
+INFO     root:test_api_parabank.py:90 Fetched accounts after loan request
+INFO     root:test_api_parabank.py:106 Logout successful
+INFO     root:test_api_parabank.py:114 Request for JMS to shutdown is performed
+INFO     root:test_api_parabank.py:117 Shutdown is performed
+INFO     root:test_api_parabank.py:120 Clean is performed
+INFO     root:test_api_parabank.py:123 Request for JMS to startup is performed
+INFO     root:test_api_parabank.py:127 Startup is performed
+INFO     root:test_api_parabank.py:130 Init is performed

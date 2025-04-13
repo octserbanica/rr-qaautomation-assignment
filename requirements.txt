@@ -1,0 +1,7 @@
+pytest~=8.3.5
+requests~=2.32.3
+selenium~=4.30.0
+pytest-html
+
+selenium-wire~=5.1.0
+beautifulsoup4~=4.13.3

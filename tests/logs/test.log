@@ -1,0 +1,6 @@
+INFO     root:test_api_parabank.py:124 Request for JMS to shutdown is performed
+INFO     root:test_api_parabank.py:127 Shutdown is performed
+INFO     root:test_api_parabank.py:130 Clean is performed
+INFO     root:test_api_parabank.py:133 Request for JMS to startup is performed
+INFO     root:test_api_parabank.py:137 Startup is performed
+INFO     root:test_api_parabank.py:140 Init is performed
