@@ -5,3 +5,5 @@ pytest-html
 
 selenium-wire~=5.1.0
 beautifulsoup4~=4.13.3
+
+blinker<1.8.0
